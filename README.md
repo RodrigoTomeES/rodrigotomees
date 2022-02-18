@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/rodrigotomees/).
+- 🔭 I’m currently working on develop websites with Next, Storybook and TypeScript.
+- 🌱 I’m currently learning TypeScript and Tailwind.
+
+<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rodrigotomees&bg_color=0d1117&color=FFFFFF&line=1f6feb&point=FFFFFF&hide_border=true">
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=rodrigotomees&background=0d1117&border=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=rodrigotomees&row=1&theme=darkhub&no-frame=true"/>
