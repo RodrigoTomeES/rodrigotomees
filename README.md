@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/rodrigotomees/).
 - 🔭 I’m currently working on develop websites with Next, Storybook and TypeScript.
 - 🌱 I’m currently learning TypeScript and Tailwind.
+- ⚡ Fun fact: The activity graph of below changes following the prefers color scheme of browser in Github Readme. Read more [here](https://github.com/RodrigoTomeES/prefers-color-scheme-hack).
 
-<img alt="Activity Graph" src="https://stormy-sea-99716.herokuapp.com/graph?username=rodrigotomees&bg_color=0d111700&color=FFFFFF&line=1f6feb&point=FFFFFF&hide_border=true&pcs_light[bg_color]=0d111700&pcs_light[color]=24292F&pcs_light[line]=1f6feb&pcs_light[point]=24292F">
+<img alt="Activity Graph" src="https://stormy-sea-99716.herokuapp.com/graph?username=rodrigotomees&bg_color=0d111700&color=FFFFFF&line=1f6feb&point=FFFFFF&hide_border=true&pcs_light[bg_color]=ffffff&pcs_light[color]=24292F&pcs_light[line]=1f6feb&pcs_light[point]=24292F">
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=rodrigotomees&background=0d1117&border=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8b949e"/>
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rodrigotomees&row=1&theme=darkhub&no-frame=true"/>
